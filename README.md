@@ -8,6 +8,7 @@
 
 ### 关于软件
 - 软件还不完善，就多谢大家debug&提issues了！将来可能会写一些方便的新功能，敬请期待喵~ 
+ > 当前服务端版本：3.7.0
 
 ### 软件下载：
 - 请到最新[Releases](https://github.com/JDDKCN/KCN-GenshinServer/releases/)处下载。
