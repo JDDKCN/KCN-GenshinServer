@@ -6,8 +6,11 @@
 
 ---
 
+### 关于软件
+- 软件还不完善，就多谢大家debug&提issues了！将来可能会写一些方便的新功能，敬请期待喵~ 
+
 ### 软件下载：
-- 请到最新[Releases](https://github.com/JDDKCN/mhypbase-Agent-free-Patch/releases/)处下载。
+- 请到最新[Releases](https://github.com/JDDKCN/KCN-GenshinServer/releases/)处下载。
 
 ### 软件截图 ： 
 - v0.1.0-Beta 2023/05/29
