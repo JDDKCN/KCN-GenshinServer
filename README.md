@@ -19,6 +19,11 @@
 ![APP_CN](Doc/image01.png)
 
 ### 更新日志
+- v0.1.3-Beta 2023/06/15
+  1. 添加日志记录功能，以markdown文档形式记录。您可以在设置-程序日志查看器中查看日志。
+  2. 添加卡池替换功能。您可以在设置-卡池设置中替换您想要的UP池。卡池文件来源于 [赵苦瓜](https://github.com/Zhaokugua) 的 [Grasscutter_Banners](https://github.com/Zhaokugua/Grasscutter_Banners) 存储库。感谢他的整理。
+  3. 修复了一轮bug。改进了UI。优化软件逻辑。
+  
 - v0.1.2-Beta 2023/06/04
   1. 优化软件逻辑，修复了一些用户反馈的bug。
   2. 添加离线用户帮助文档。您可以在程序内右键-点击使用说明选项打开。
