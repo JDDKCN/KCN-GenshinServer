@@ -1,6 +1,10 @@
 # KCN-GenshinServer
 
-### 简体中文|[English](README_EN.md)
+[![GitHub license](https://img.shields.io/github/license/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/stargazers)
+[![Github All Releases](https://img.shields.io/github/downloads/JDDKCN/KCN-GenshinServer/total.svg)](https://github.com/JDDKCN/KCN-GenshinServer/releases)
+[![GitHub release](https://img.shields.io/github/v/release/JDDKCN/KCN-GenshinServer)](https://github.com/JDDKCN/KCN-GenshinServer/releases/latest)
+[![QQ Group](https://pub.idqqimg.com/wpa/images/group.png)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_-W8U_Mrz_nOu3eD_u3VGiPICKe9t7zY&authKey=rB2PW5mIrIY3ARjMqqWtw%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)
 
 ![Github](https://socialify.git.ci/JDDKCN/KCN-GenshinServer/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com/u/103011451?v=4&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
@@ -11,9 +15,9 @@
 ### 关于软件
 - 软件还不完善，就多谢大家debug&提issues了！将来可能会写一些方便的新功能，敬请期待喵~ 
 - 教程和疑难解答详见GitHub Wiki，请认真阅读后再开始搭建！
+- 欢迎加入QQ群 **1140538395** 反馈Bug。
  > - 当前支持的游戏版本：4.0.0 - 4.0.1 
  > - **仅注明支持的游戏版本可用，其余版本均不可用，否则报错4214！**
- > - 当前启动器版本：v0.1.7-Beta
 
 ### 软件下载
 - 请到最新[Releases](https://github.com/JDDKCN/KCN-GenshinServer/releases/)处下载。
@@ -23,11 +27,11 @@
   - 请务必仔细阅读帮助文档，这很重要！
 
 ### 软件截图
-**[专业模式] v0.1.6-Beta**
-![APP_CN](Doc/image04.png)
+**[专业模式] v0.1.7-Beta**
+![APP_CN](Doc/image06.png)
 
-**[基础模式] v0.1.6-Beta**
-![APP_CN](Doc/image05.png)
+**[基础模式] v0.1.7-Beta**
+![APP_CN](Doc/image07.png)
 
 ### 更新日志
 - v0.1.7-Beta 2023/10/16
@@ -106,3 +110,4 @@
 ### 联系方式
 - [前往我的B站首页](https://space.bilibili.com/475547854/)
 - [前往我的Twitter账号](https://twitter.com/2233KCN)
+- [加入QQ群：](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_-W8U_Mrz_nOu3eD_u3VGiPICKe9t7zY&authKey=rB2PW5mIrIY3ARjMqqWtw%2F2Qpejm5EArmuy95Wq1GfC7gLzUzTRATTnULKUKtb76&noverify=0&group_code=1140538395)1140538395
